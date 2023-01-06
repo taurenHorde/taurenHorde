@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+React Bootstrap  
+다른파일 import / export
+React-route-dom - navigate , nested routes 등등
+styled-components 
+Lifectcle
+useEffect
+React ajax
+Tab ui ( use React )
+Redux Toolkit 
+
+등 연습했슴
+  
